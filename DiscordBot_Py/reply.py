@@ -1,7 +1,7 @@
 import discord
 
 client = discord.Client()
-DISCORD_BOT_TOKEN = "NDM4NzUwODczNTEwODcxMDYx.DcJNzA.0hb6FM6r1jjLk3HgKQqB7YIdht0"
+DISCORD_BOT_TOKEN = "DISCORD_BOT_TOKEN"
 
 @client.event
 async def on_message(message):

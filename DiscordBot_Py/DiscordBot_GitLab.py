@@ -1,7 +1,7 @@
 import discord, gitlab
 
-DISCORD_BOT_TOKEN = "NDM4NzUwODczNTEwODcxMDYx.DcJNzA.0hb6FM6r1jjLk3HgKQqB7YIdht0"
-GITLAB_USER_TOKEN = "yicW5iKNjpgCukP4Ldyb"
+DISCORD_BOT_TOKEN = "DISCORD_BOT_TOKEN"
+GITLAB_USER_TOKEN = "GITLAB_USER_TOKEN"
 BOT_PREFIX = "$"
 
 client = discord.Client()

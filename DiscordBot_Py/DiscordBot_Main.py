@@ -1,8 +1,8 @@
 # Дискорд Бот с подключенним к нейронный сеть от DialogFlow
 import discord, apiai, json
 
-DISCORD_BOT_TOKEN = "NDM4NzUwODczNTEwODcxMDYx.DcJNzA.0hb6FM6r1jjLk3HgKQqB7YIdht0"
-DIALOGFLOW_CLIENT_ACCESS_TOKEN = "e6f61617821741a5953f12dcee6e9cc5"
+DISCORD_BOT_TOKEN = "DISCORD_BOT_TOKEN"
+DIALOGFLOW_CLIENT_ACCESS_TOKEN = "DIALOGFLOW_CLIENT_ACCESS_TOKEN"
 BOT_PREFIX = "$"
 client = discord.Client()
 
