@@ -1,0 +1,5 @@
+/vs/*
+
+Pipfile
+Procfile.windows
+requirements.txt
