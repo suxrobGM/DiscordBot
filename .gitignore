@@ -1,5 +1,5 @@
-vs*
-
+/vs/*
+*.suo
 Pipfile
 Procfile.windows
 requirements.txt
